@@ -4,7 +4,7 @@ import 'dart:math';
 
 class BackendFakeClient {
   Future<FakeResult> fetchData() async {
-    bool result = randomBoolWithRate(0.1);
+    bool result = _randomBoolWithRate(0.1);
     await Future.delayed(const Duration(seconds: 1));
     if (result) {
       String jsonString = await rootBundle.loadString('assets/result.json');
@@ -15,7 +15,7 @@ class BackendFakeClient {
     }
   }
 
-  bool randomBoolWithRate(double rateOfFalse) {
+  bool _randomBoolWithRate(double rateOfFalse) {
     // Create a random number generator
     final random = Random();
     // Generate a random double between 0.0 (inclusive) and 1.0 (exclusive)
