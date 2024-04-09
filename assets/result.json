@@ -1,0 +1,3153 @@
+{
+    "hits": [
+        {
+            "category": "cc001c326108b044",
+            
+            "features": {
+                "colour": [
+                    "Braun",
+                    "Grau"
+                ],
+                "brand": [
+                    "Vito"
+                ],
+                "material": [
+                    "Glas",
+                    "Holz",
+                    "Holzwerkstoff",
+                    "Kunststoff",
+                    "Nachbildung"
+                ],
+                "materialFurniture": [
+                    "Glas",
+                    "Holzwerkstoff",
+                    "Nachbildung",
+                    "Textil"
+                ],
+                "price": 2299,
+                "sale": false,
+                "shop": "Möbel Martin",
+                "paymentMethod": [
+                    "Kreditkarte",
+                    "PayPal",
+                    "Rechnungskauf",
+                    "Vorkasse"
+                ],
+                "deliveryTime": [
+                    "bis-4-Wochen",
+                    "bis-8-Wochen"
+                ],
+                "voucher": false,
+                "new": true
+            },
+            "images": [
+                "12f6482.jpg"
+            ],
+            "objectID": "cde93f1e6dd52fb061179fdcc3f24ecf",
+        
+            "price": {
+                "currency": "EUR",
+                "value": 2299.0
+            },
+            "productId": "52c163327821a29d8621f490b012df6f",
+           
+            "title": "Anbauwand Vito Samba",
+            "voucher": {
+                "valuePercentage": 0.0
+            },
+            "cluster": {
+                "id": "ae8f39e45e7f123db518e91b69a56d9f"
+            },
+            "clusterProductsCount": 1,
+            "description": "Korpus und Front Alteiche, Frontabsetzung grau matt"
+        },
+        {
+            "category": "cc001c326108b044",
+           
+            "features": {
+                "colour": [
+                    "Braun"
+                ],
+                "brand": [
+                    "Vito"
+                ],
+                "material": [
+                    "Holz",
+                    "Holzwerkstoff",
+                    "Kunststoff",
+                    "Nachbildung"
+                ],
+                "materialFurniture": [
+                    "Holzwerkstoff",
+                    "Nachbildung",
+                    "Textil"
+                ],
+                "price": 2502,
+                "sale": false,
+                "shop": "Möbel Martin",
+                "paymentMethod": [
+                    "Kreditkarte",
+                    "PayPal",
+                    "Rechnungskauf",
+                    "Vorkasse"
+                ],
+                "deliveryTime": [
+                    "bis-4-Wochen",
+                    "bis-8-Wochen"
+                ],
+                "voucher": false,
+                "new": true
+            },
+         
+            "images": [
+                "180aa80.jpg"
+            ],
+            "objectID": "492ff81f218628a98a70bd80c7959d75",
+            "price": {
+                "currency": "EUR",
+                "value": 2502.0
+            },
+            "productId": "5b66bb80a4bfc9fcd37d8a0061e7863e",
+            "title": "Eck-Anbauwand Vito Cuba",
+            "voucher": {
+                "valuePercentage": 0.0
+            },
+           
+            "cluster": {
+                "id": "5b1b589144ce89021c6dcc49235764e9"
+            },
+            "clusterProductsCount": 1,
+            "description": "Korpus und Front Alteiche, ca. 295x205/216x40-53 cm"
+        },
+        {
+            "category": "cc001c326108b044",
+            "features": {
+                "totalWidth": [
+                    253
+                ],
+                "width": [
+                    "201-260-cm"
+                ],
+                "colour": [
+                    "Beige"
+                ],
+                "totalHeight": [
+                    79
+                ],
+                "brand": [
+                    "sofanella"
+                ],
+                "material": [
+                    "Stoff",
+                    "Textil"
+                ],
+                "price": 2796,
+                "sale": true,
+                "services": [
+                    "Käuferschutz"
+                ],
+                "shop": "sofanella",
+                "totalDepth": [
+                    101
+                ],
+                "paymentMethod": [
+                    "Kreditkarte",
+                    "PayPal",
+                    "paydirekt",
+                    "Vorkasse-mit-Rabatt",
+                    "Anzahlung"
+                ],
+                "deliveryTime": [
+                    "mehr-als-8-Wochen"
+                ],
+                "voucher": true,
+                "new": false
+            },
+            "images": [
+                "154b06f.jpg",
+                "285e16c.jpg",
+                "35cedc1.jpg",
+                "46cc5ea.jpg"
+            ],
+            "objectID": "0a21bc48353d619fdfe1c9a672337a5e",
+          
+            "price": {
+                "currency": "EUR",
+                "salePercentage": -8.0,
+                "value": 2795.88,
+                "valueFormer": 3039.0
+            },
+            "productId": "17d333f9d193e7b7da34fae76cca3c21",
+           
+            "title": "Stoff Ecksofa VENOSA mit Funktion",
+            "voucher": {
+                "text": "Rabatt bei Vorkasse",
+                "valuePercentage": 3.0
+            },
+            "cluster": {
+                "id": "fad5d7bbaa13976945ee3bc63496fde0"
+            },
+            "clusterProductsCount": 1,
+            "description": "Faszinierendes Leder und bestes, Italienisches Design – das wird bei der Eckcouch VENOSA gekonnt kom"
+        },
+        {
+            "category": "cc001c326108b044",
+            "features": {
+                "colour": [
+                    "Gold",
+                    "Braun"
+                ],
+                "brand": [
+                    "main-möbel"
+                ],
+                "material": [
+                    "Metall"
+                ],
+                "materialFurniture": [
+                    "Metall"
+                ],
+                "price": 2499,
+                "sale": false,
+                "services": [
+                    "Käuferschutz"
+                ],
+                "shop": "main möbel",
+                "paymentMethod": [
+                    "Kreditkarte",
+                    "PayPal",
+                    "Ratenzahlung",
+                    "Rechnungskauf",
+                    "Vorkasse-mit-Rabatt"
+                ],
+                "deliveryTime": [
+                    "mehr-als-8-Wochen"
+                ],
+                "voucher": true,
+                "new": false
+            },
+         
+            "images": [
+                "12cbba1.jpg",
+                "225dca6.jpg",
+                "3c2868c.jpg",
+                "4aa6516.jpg"
+            ],
+            "objectID": "fc7889a9e49ebb19ed68db5d53f86fc4",
+            "price": {
+                "currency": "EUR",
+                "value": 2499.0
+            },
+            "productId": "bfc5bfa7758ee9291ea86652ae17a9fa",
+            "title": "Wohnwand I \"Assuan\" Mango & Metall goldfarbig WZ-0462",
+            "voucher": {
+                "text": "extra bei Newsletteranmeldung",
+                "valueAmount": 5.0
+            },
+            "cluster": {
+                "id": "741dbd34fbf294a1e81f23c7d93f0950"
+            },
+            "clusterProductsCount": 1,
+            "description": "Wohnwand, Mango, geölt, goldfarbige Absetzungen, Assuan"
+        },
+        {
+            "category": "cc001c326108b044",
+            "features": {
+                "colour": [
+                    "Grau"
+                ],
+                "material": [
+                    "Glas",
+                    "Holz",
+                    "Holzwerkstoff",
+                    "Kunststoff",
+                    "Metall",
+                    "Nachbildung"
+                ],
+                "materialFurniture": [
+                    "Glas",
+                    "Holzwerkstoff",
+                    "Metall",
+                    "Nachbildung",
+                    "Textil"
+                ],
+                "price": 1998,
+                "sale": false,
+                "shop": "Möbel Martin",
+                "paymentMethod": [
+                    "Kreditkarte",
+                    "PayPal",
+                    "Rechnungskauf",
+                    "Vorkasse"
+                ],
+                "deliveryTime": [
+                    "bis-4-Wochen",
+                    "bis-8-Wochen"
+                ],
+                "voucher": false,
+                "new": true
+            },
+            "images": [
+                "17c47a8.jpg"
+            ],
+            "objectID": "5f1f6d477c88c4323571485ac424b944",
+            
+            "price": {
+                "currency": "EUR",
+                "value": 1998.0
+            },
+            "productId": "0a7ed32652a7cf9a9f9db0c8ca28a508",
+        
+            "title": "Anbauwand Yannik",
+            "voucher": {
+                "valuePercentage": 0.0
+            },
+            "cluster": {
+                "id": "a2ba99c34812755f30413730f084b798"
+            },
+            "clusterProductsCount": 1,
+            "description": "Front grey white Folie tiefgezogen, ca. 352x212x50 cm"
+        },
+        {
+            "category": "cc001c326108b044",
+            "features": {
+                "colour": [
+                    "Weiß"
+                ],
+                "totalHeight": [
+                    8
+                ],
+                "deliveryOptions": [
+                    "Bis-Bordsteinkante"
+                ],
+                "brand": [
+                    "sofa-dreams"
+                ],
+                "material": [
+                    "Echt-Leder",
+                    "Fell",
+                    "Holz",
+                    "Kunstleder",
+                    "Leder",
+                    "Massivholz"
+                ],
+                "materialFurniture": [
+                    "Holz",
+                    "Kunstleder"
+                ],
+                "price": 2349,
+                "sale": true,
+                "services": [
+                    "Käuferschutz"
+                ],
+                "shop": "Sofa Dreams",
+                "totalDepth": [
+                    21
+                ],
+                "paymentMethod": [
+                    "Kreditkarte",
+                    "PayPal",
+                    "Ratenzahlung",
+                    "Amazon-Payments",
+                    "Nachnahme"
+                ],
+                "deliveryTime": [
+                    "mehr-als-8-Wochen"
+                ],
+                "voucher": false
+            },
+            "images": [
+                "17b77bb.jpg",
+                "2a5de2d.jpg",
+                "3911674.jpg",
+                "4664e6b.jpg",
+                "5a16ce4.jpg",
+                "6243eaa.jpg",
+                "7140cfc.jpg",
+                "80d5d12.jpg"
+            ],
+            "objectID": "33a2af196cce8ee81a700cf777ae2b64",
+            "price": {
+                "currency": "EUR",
+                "salePercentage": -19.0,
+                "value": 2349.0,
+                "valueFormer": 2899.0
+            },
+            "productId": "57b3fd5e4b9fc3281c7e9f7a7c3d9810",
+            "rating": {
+                "count": 428,
+                "score": 5.0
+            },
+            "shipping": {
+                "currency": "EUR",
+                "originalDeliveryTime": "8-10 Wochen",
+                "price": 0.0
+            },
+            "title": "Ledersofa Palermo Ecksofa mit Beleuchtung",
+            "cluster": {
+                "id": "85150e70ff76c4598ae1916efe2841b5"
+            },
+            "clusterProductsCount": 1,
+            "maxClusterPriceDiff": {
+                "absolute": 0.0,
+                "relative": 0.0,
+                "currency": "EUR"
+            },
+            "description": "Dynamisch präsentiert sich das Ledersofa Palermo in L-Form. Mit flotten Kurven und steilen Schrägen "
+        },
+        {
+            "category": "cc001c326108b044",
+            "clickoutUrl": "https://www.main-moebel.de/wohnwand-iii-bergamo-wildeiche-geoelt-wz-0159?sPartner=MBLDE",
+            "clickable": true,
+            "display": {
+                "desktop": true,
+                "mobile": true
+            },
+            "features": {
+                "brand": [
+                    "main-möbel"
+                ],
+                "material": [
+                    "Holz",
+                    "Massivholz"
+                ],
+                "materialFurniture": [
+                    "Holz"
+                ],
+                "price": 2595,
+                "sale": false,
+                "services": [
+                    "Käuferschutz"
+                ],
+                "shop": "main möbel",
+                "paymentMethod": [
+                    "Kreditkarte",
+                    "PayPal",
+                    "Ratenzahlung",
+                    "Rechnungskauf",
+                    "Vorkasse-mit-Rabatt"
+                ],
+                "deliveryTime": [
+                    "mehr-als-8-Wochen"
+                ],
+                "voucher": true,
+                "new": false,
+                "colour": [
+                    "Braun"
+                ],
+                "totalDepth": [
+                    40
+                ],
+                "totalHeight": [
+                    205
+                ],
+                "totalWidth": [
+                    170
+                ],
+                "width": [
+                    "161-200-cm"
+                ],
+                "deliveryOptions": [
+                    "Bis-Bordsteinkante"
+                ]
+            },
+            "facetMapping": [
+                {
+                    "name": "Marke",
+                    "seoName": "marke",
+                    "featureMapping": "brand",
+                    "values": [
+                        {
+                            "name": "main möbel",
+                            "seoName": "main-moebel",
+                            "featureValue": "main-möbel",
+                            "colorHex": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Material",
+                    "seoName": "material",
+                    "featureMapping": "material",
+                    "values": [
+                        {
+                            "name": "Holz",
+                            "seoName": "holz-material",
+                            "featureValue": "Holz",
+                            "colorHex": ""
+                        },
+                        {
+                            "name": "Massivholz",
+                            "seoName": "massivholz-material",
+                            "featureValue": "Massivholz",
+                            "colorHex": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Material",
+                    "seoName": "material-moebel",
+                    "featureMapping": "materialFurniture"
+                },
+                {
+                    "name": "Preis",
+                    "seoName": "preis",
+                    "featureMapping": "price",
+                    "scaleUnit": "€"
+                },
+                {
+                    "name": "Sale",
+                    "seoName": "sale",
+                    "featureMapping": "sale"
+                },
+                {
+                    "name": "Services",
+                    "seoName": "service",
+                    "featureMapping": "services",
+                    "values": [
+                        {
+                            "name": "Käuferschutz",
+                            "seoName": "kaeuferschutz",
+                            "featureValue": "Käuferschutz",
+                            "colorHex": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Shop",
+                    "seoName": "shop",
+                    "featureMapping": "shop",
+                    "values": [
+                        {
+                            "name": "main möbel",
+                            "seoName": "main-moebel",
+                            "featureValue": "main möbel",
+                            "colorHex": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Zahlungsarten",
+                    "seoName": "zahlungsart",
+                    "featureMapping": "paymentMethod",
+                    "values": [
+                        {
+                            "name": "Kreditkarte",
+                            "seoName": "kreditkarte",
+                            "featureValue": "Kreditkarte",
+                            "colorHex": ""
+                        },
+                        {
+                            "name": "PayPal",
+                            "seoName": "paypal",
+                            "featureValue": "PayPal",
+                            "colorHex": ""
+                        },
+                        {
+                            "name": "Ratenzahlung",
+                            "seoName": "ratenzahlung",
+                            "featureValue": "Ratenzahlung",
+                            "colorHex": ""
+                        },
+                        {
+                            "name": "Rechnungskauf",
+                            "seoName": "rechnung",
+                            "featureValue": "Rechnungskauf",
+                            "colorHex": ""
+                        },
+                        {
+                            "name": "Vorkasse mit Rabatt",
+                            "seoName": "vorkasse-mit-rabatt",
+                            "featureValue": "Vorkasse-mit-Rabatt",
+                            "colorHex": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Lieferzeit",
+                    "seoName": "lieferzeit",
+                    "featureMapping": "deliveryTime",
+                    "values": [
+                        {
+                            "name": "mehr als 8 Wochen",
+                            "seoName": "mehr-als-8-wochen",
+                            "featureValue": "mehr-als-8-Wochen",
+                            "colorHex": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Rabattaktionen",
+                    "seoName": "voucher",
+                    "featureMapping": "voucher"
+                },
+                {
+                    "name": "Neue Produkte",
+                    "seoName": "neue-produkte",
+                    "featureMapping": "new"
+                },
+                {
+                    "name": "Farbe",
+                    "seoName": "farbe",
+                    "featureMapping": "colour",
+                    "values": [
+                        {
+                            "name": "Braun",
+                            "seoName": "braun",
+                            "featureValue": "Braun",
+                            "colorHex": "#C36137"
+                        }
+                    ]
+                },
+                {
+                    "name": "Breite",
+                    "seoName": "breite",
+                    "featureMapping": "width",
+                    "values": [
+                        {
+                            "name": "161 - 200 cm",
+                            "seoName": "161-200cm-breite",
+                            "featureValue": "161-200-cm",
+                            "colorHex": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Lieferoptionen",
+                    "seoName": "lieferoptionen",
+                    "featureMapping": "deliveryOptions",
+                    "values": [
+                        {
+                            "name": "Bis Bordsteinkante",
+                            "seoName": "bis-bordsteinkante",
+                            "featureValue": "Bis-Bordsteinkante",
+                            "colorHex": ""
+                        }
+                    ]
+                }
+            ],
+            "flags": [
+                "promotion",
+                "bestPrice"
+            ],
+            "images": [
+                "1072e3a.jpg",
+                "2ff42e6.jpg",
+                "394d466.jpg",
+                "432e129.jpg"
+            ],
+            "objectID": "3470f5a7a37a828f8e3a5fe795efd6de",
+            "partner": {
+                "alias": "partner_1019",
+                "id": "df897e92-7d4f-4652-8158-649fea7d9196",
+                "name": "main möbel",
+                "paymentMethods": [
+                    "Vorkasse mit Rabatt",
+                    "PayPal",
+                    "Kreditkarte",
+                    "Rechnungskauf",
+                    "Finanzkauf"
+                ]
+            },
+            "partnerProductKey": "156444-Be",
+            "price": {
+                "currency": "EUR",
+                "value": 2595.0
+            },
+            "productId": "919f80e1c058a691ffe0b8acce0ac091",
+            "shipping": {
+                "currency": "EUR",
+                "originalDeliveryTime": "Ende Mai",
+                "price": 0.0
+            },
+            "title": "Wohnwand III \"Bergamo\" Wildeiche geölt WZ-0159",
+            "voucher": {
+                "text": "extra bei Newsletteranmeldung",
+                "valueAmount": 5.0
+            },
+            "vouchers": [
+                {
+                    "text": "extra bei Newsletteranmeldung",
+                    "valueAmount": 5.0
+                }
+            ],
+            "cluster": {
+                "id": "a76cc23401d17097a183f18eabcb0fec"
+            },
+            "clusterProductsCount": 1,
+            "maxClusterPriceDiff": {
+                "absolute": 0.0,
+                "relative": 0.0,
+                "currency": "EUR"
+            },
+            "description": "Wohnwand, Wohnzimmer, Esszimmer, Wildeiche, geölt, Bergamo 156404-Be TV Element 0,3808cbm 156411-Be "
+        },
+        {
+            "category": "cc001c326108b044",
+            "clickoutUrl": "https://www.sofanella.de/leder-ecksofa-alesso/35-ALE-ECKL.10",
+            "clickable": true,
+            "display": {
+                "desktop": true,
+                "mobile": true
+            },
+            "features": {
+                "totalWidth": [
+                    286
+                ],
+                "width": [
+                    "261-320-cm"
+                ],
+                "colour": [
+                    "Orange"
+                ],
+                "totalHeight": [
+                    74
+                ],
+                "brand": [
+                    "sofanella"
+                ],
+                "material": [
+                    "Echt-Leder",
+                    "Leder"
+                ],
+                "materialFurniture": [
+                    "Metall"
+                ],
+                "price": 5675,
+                "sale": true,
+                "services": [
+                    "Käuferschutz"
+                ],
+                "shop": "sofanella",
+                "totalDepth": [
+                    108
+                ],
+                "paymentMethod": [
+                    "Kreditkarte",
+                    "PayPal",
+                    "paydirekt",
+                    "Vorkasse-mit-Rabatt",
+                    "Anzahlung"
+                ],
+                "deliveryTime": [
+                    "mehr-als-8-Wochen"
+                ],
+                "voucher": true,
+                "new": false
+            },
+            "facetMapping": [
+                {
+                    "name": "Breite",
+                    "seoName": "breite",
+                    "featureMapping": "width",
+                    "values": [
+                        {
+                            "name": "261 - 320 cm",
+                            "seoName": "261-320cm",
+                            "featureValue": "261-320-cm",
+                            "colorHex": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Farbe",
+                    "seoName": "farbe",
+                    "featureMapping": "colour",
+                    "values": [
+                        {
+                            "name": "Orange",
+                            "seoName": "orange",
+                            "featureValue": "Orange",
+                            "colorHex": "#f47321"
+                        }
+                    ]
+                },
+                {
+                    "name": "Marke",
+                    "seoName": "marke",
+                    "featureMapping": "brand",
+                    "values": [
+                        {
+                            "name": "sofanella",
+                            "seoName": "sofanella",
+                            "featureValue": "sofanella",
+                            "colorHex": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Material",
+                    "seoName": "material",
+                    "featureMapping": "material",
+                    "values": [
+                        {
+                            "name": "Echt-Leder",
+                            "seoName": "echt-leder-material",
+                            "featureValue": "Echt-Leder",
+                            "colorHex": ""
+                        },
+                        {
+                            "name": "Leder",
+                            "seoName": "leder-material",
+                            "featureValue": "Leder",
+                            "colorHex": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Material",
+                    "seoName": "material-moebel",
+                    "featureMapping": "materialFurniture",
+                    "values": [
+                        {
+                            "name": "Metall",
+                            "seoName": "metall-moebel",
+                            "featureValue": "Metall",
+                            "colorHex": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Preis",
+                    "seoName": "preis",
+                    "featureMapping": "price",
+                    "scaleUnit": "€"
+                },
+                {
+                    "name": "Sale",
+                    "seoName": "sale",
+                    "featureMapping": "sale"
+                },
+                {
+                    "name": "Services",
+                    "seoName": "service",
+                    "featureMapping": "services",
+                    "values": [
+                        {
+                            "name": "Käuferschutz",
+                            "seoName": "kaeuferschutz",
+                            "featureValue": "Käuferschutz",
+                            "colorHex": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Shop",
+                    "seoName": "shop",
+                    "featureMapping": "shop",
+                    "values": [
+                        {
+                            "name": "sofanella",
+                            "seoName": "sofanella",
+                            "featureValue": "sofanella",
+                            "colorHex": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Zahlungsarten",
+                    "seoName": "zahlungsart",
+                    "featureMapping": "paymentMethod",
+                    "values": [
+                        {
+                            "name": "Kreditkarte",
+                            "seoName": "kreditkarte",
+                            "featureValue": "Kreditkarte",
+                            "colorHex": ""
+                        },
+                        {
+                            "name": "PayPal",
+                            "seoName": "paypal",
+                            "featureValue": "PayPal",
+                            "colorHex": ""
+                        },
+                        {
+                            "name": "giropay",
+                            "seoName": "giropay",
+                            "featureValue": "paydirekt",
+                            "colorHex": ""
+                        },
+                        {
+                            "name": "Vorkasse mit Rabatt",
+                            "seoName": "vorkasse-mit-rabatt",
+                            "featureValue": "Vorkasse-mit-Rabatt",
+                            "colorHex": ""
+                        },
+                        {
+                            "name": "Anzahlung",
+                            "seoName": "anzahlung",
+                            "featureValue": "Anzahlung",
+                            "colorHex": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Lieferzeit",
+                    "seoName": "lieferzeit",
+                    "featureMapping": "deliveryTime",
+                    "values": [
+                        {
+                            "name": "mehr als 8 Wochen",
+                            "seoName": "mehr-als-8-wochen",
+                            "featureValue": "mehr-als-8-Wochen",
+                            "colorHex": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Rabattaktionen",
+                    "seoName": "voucher",
+                    "featureMapping": "voucher"
+                },
+                {
+                    "name": "Neue Produkte",
+                    "seoName": "neue-produkte",
+                    "featureMapping": "new"
+                }
+            ],
+            "flags": [
+                "promotion",
+                "bestPrice"
+            ],
+            "images": [
+                "131f97c.jpg",
+                "231f97c.jpg",
+                "3f0fad2.jpg",
+                "4a564b1.jpg"
+            ],
+            "objectID": "c40d0340367ff477a66eed15965a66c7",
+            "partner": {
+                "alias": "partner_1381",
+                "id": "05387a29-2568-441f-971c-2edf896c77fb",
+                "name": "sofanella",
+                "paymentMethods": [
+                    "Vorkasse mit Rabatt",
+                    "paydirekt",
+                    "Kreditkarte",
+                    "PayPal",
+                    "mit Anzahlung"
+                ]
+            },
+            "partnerProductKey": "35-ALE-ECKL.10",
+            "price": {
+                "currency": "EUR",
+                "salePercentage": -8.0,
+                "value": 5675.48,
+                "valueFormer": 6169.0
+            },
+            "productId": "4e58fd1bb9e700ff0c6fed464f27413f",
+            "rating": {
+                "count": 1,
+                "score": 4.5
+            },
+            "shipping": {
+                "currency": "EUR",
+                "originalDeliveryTime": "10 Wochen",
+                "price": 0.0
+            },
+            "title": "Ledersofa ALESSO mit Sitzverstellung Ecksofa",
+            "voucher": {
+                "text": "Rabatt bei Vorkasse",
+                "valuePercentage": 3.0
+            },
+            "vouchers": [
+                {
+                    "text": "Rabatt bei Vorkasse",
+                    "valuePercentage": 3.0
+                }
+            ],
+            "cluster": {
+                "id": "6d31b559fd4f7dfd8ada48fe1ed5a821"
+            },
+            "clusterProductsCount": 1,
+            "maxClusterPriceDiff": {
+                "absolute": 0.0,
+                "relative": 0.0,
+                "currency": "EUR"
+            },
+            "description": "Das Sofa ALESSO ist eine formvollendete Ledercouch, die aufgrund ihrer harmonischen Rundungen direkt"
+        },
+        {
+            "category": "cc001c326108b044",
+            "clickoutUrl": "https://www.delife.eu/megasofa-feres-290x170-cm-cord-beige/a-30217?_$ja=554317879&ReferrerID=82&utm_source=moebelde&utm_medium=pdm&utm_campaign=moebeldeDE&utm_content=30217&em_src=cp&em_cmp=feed/de/69133/moebel.de/30217&fdcampaign=feed/de/69133/moebel.de/30217",
+            "clickable": true,
+            "display": {
+                "desktop": true,
+                "mobile": true
+            },
+            "features": {
+                "totalWidth": [
+                    291
+                ],
+                "width": [
+                    "261-320-cm"
+                ],
+                "colour": [
+                    "Beige"
+                ],
+                "totalHeight": [
+                    87
+                ],
+                "deliveryOptions": [
+                    "Bis-Bordsteinkante"
+                ],
+                "brand": [
+                    "Delife"
+                ],
+                "material": [
+                    "Cord",
+                    "Textil"
+                ],
+                "materialFurniture": [
+                    "Holz",
+                    "Kunststoff",
+                    "Textil"
+                ],
+                "price": 3000,
+                "sale": false,
+                "services": [
+                    "Musterversand",
+                    "kostenloser-Rückversand",
+                    "Käuferschutz"
+                ],
+                "shop": "DELIFE",
+                "totalDepth": [
+                    167
+                ],
+                "paymentMethod": [
+                    "Kreditkarte",
+                    "PayPal",
+                    "Ratenzahlung",
+                    "Rechnungskauf",
+                    "Vorkasse"
+                ],
+                "deliveryTime": [
+                    "sofort-lieferbar",
+                    "bis-2-Wochen",
+                    "bis-4-Wochen",
+                    "bis-8-Wochen",
+                    "Lieferung-vor-Weihnachten"
+                ],
+                "voucher": true,
+                "new": false
+            },
+            "facetMapping": [
+                {
+                    "name": "Breite",
+                    "seoName": "breite",
+                    "featureMapping": "width",
+                    "values": [
+                        {
+                            "name": "261 - 320 cm",
+                            "seoName": "261-320cm",
+                            "featureValue": "261-320-cm",
+                            "colorHex": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Farbe",
+                    "seoName": "farbe",
+                    "featureMapping": "colour",
+                    "values": [
+                        {
+                            "name": "Beige",
+                            "seoName": "beige",
+                            "featureValue": "Beige",
+                            "colorHex": "#EFE0B4"
+                        }
+                    ]
+                },
+                {
+                    "name": "Lieferoptionen",
+                    "seoName": "lieferoptionen",
+                    "featureMapping": "deliveryOptions",
+                    "values": [
+                        {
+                            "name": "Bis Bordsteinkante",
+                            "seoName": "bis-bordsteinkante",
+                            "featureValue": "Bis-Bordsteinkante",
+                            "colorHex": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Marke",
+                    "seoName": "marke",
+                    "featureMapping": "brand",
+                    "values": [
+                        {
+                            "name": "Delife",
+                            "seoName": "delife",
+                            "featureValue": "Delife",
+                            "colorHex": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Material",
+                    "seoName": "material",
+                    "featureMapping": "material",
+                    "values": [
+                        {
+                            "name": "Cord",
+                            "seoName": "cord-material",
+                            "featureValue": "Cord",
+                            "colorHex": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Material",
+                    "seoName": "material-moebel",
+                    "featureMapping": "materialFurniture",
+                    "values": [
+                        {
+                            "name": "Kunststoff",
+                            "seoName": "kunststoff-moebel",
+                            "featureValue": "Kunststoff",
+                            "colorHex": ""
+                        },
+                        {
+                            "name": "Textil",
+                            "seoName": "textil",
+                            "featureValue": "Textil",
+                            "colorHex": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Preis",
+                    "seoName": "preis",
+                    "featureMapping": "price",
+                    "scaleUnit": "€"
+                },
+                {
+                    "name": "Sale",
+                    "seoName": "sale",
+                    "featureMapping": "sale"
+                },
+                {
+                    "name": "Services",
+                    "seoName": "service",
+                    "featureMapping": "services",
+                    "values": [
+                        {
+                            "name": "Musterversand",
+                            "seoName": "stoffmusterversand",
+                            "featureValue": "Musterversand",
+                            "colorHex": ""
+                        },
+                        {
+                            "name": "kostenloser Rückversand",
+                            "seoName": "kostenloser-rueckversand",
+                            "featureValue": "kostenloser-Rückversand",
+                            "colorHex": ""
+                        },
+                        {
+                            "name": "Käuferschutz",
+                            "seoName": "kaeuferschutz",
+                            "featureValue": "Käuferschutz",
+                            "colorHex": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Shop",
+                    "seoName": "shop",
+                    "featureMapping": "shop",
+                    "values": [
+                        {
+                            "name": "DELIFE",
+                            "seoName": "delife",
+                            "featureValue": "DELIFE",
+                            "colorHex": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Zahlungsarten",
+                    "seoName": "zahlungsart",
+                    "featureMapping": "paymentMethod",
+                    "values": [
+                        {
+                            "name": "Kreditkarte",
+                            "seoName": "kreditkarte",
+                            "featureValue": "Kreditkarte",
+                            "colorHex": ""
+                        },
+                        {
+                            "name": "PayPal",
+                            "seoName": "paypal",
+                            "featureValue": "PayPal",
+                            "colorHex": ""
+                        },
+                        {
+                            "name": "Ratenzahlung",
+                            "seoName": "ratenzahlung",
+                            "featureValue": "Ratenzahlung",
+                            "colorHex": ""
+                        },
+                        {
+                            "name": "Rechnungskauf",
+                            "seoName": "rechnung",
+                            "featureValue": "Rechnungskauf",
+                            "colorHex": ""
+                        },
+                        {
+                            "name": "Vorkasse",
+                            "seoName": "vorkasse",
+                            "featureValue": "Vorkasse",
+                            "colorHex": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Lieferzeit",
+                    "seoName": "lieferzeit",
+                    "featureMapping": "deliveryTime",
+                    "values": [
+                        {
+                            "name": "sofort lieferbar",
+                            "seoName": "bis-1-woche",
+                            "featureValue": "sofort-lieferbar",
+                            "colorHex": ""
+                        },
+                        {
+                            "name": "bis 2 Wochen",
+                            "seoName": "bis-2-wochen",
+                            "featureValue": "bis-2-Wochen",
+                            "colorHex": ""
+                        },
+                        {
+                            "name": "bis 4 Wochen",
+                            "seoName": "bis-4-wochen",
+                            "featureValue": "bis-4-Wochen",
+                            "colorHex": ""
+                        },
+                        {
+                            "name": "bis 8 Wochen",
+                            "seoName": "bis-8-wochen",
+                            "featureValue": "bis-8-Wochen",
+                            "colorHex": ""
+                        },
+                        {
+                            "name": "Lieferung vor Weihnachten",
+                            "seoName": "lieferung-vor-weihnachten",
+                            "featureValue": "Lieferung-vor-Weihnachten",
+                            "colorHex": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Rabattaktionen",
+                    "seoName": "voucher",
+                    "featureMapping": "voucher"
+                },
+                {
+                    "name": "Neue Produkte",
+                    "seoName": "neue-produkte",
+                    "featureMapping": "new"
+                }
+            ],
+            "flags": [
+                "promotion",
+                "bestPrice"
+            ],
+            "images": [
+                "1c1e92c.jpg",
+                "22b2705.jpg",
+                "301290f.jpg",
+                "49ced5f.jpg",
+                "5c017df.jpg",
+                "69a2b52.jpg",
+                "7f956c3.jpg",
+                "845ed81.jpg"
+            ],
+            "locations": [
+                "96237"
+            ],
+            "objectID": "946ea20cbee1834ec460acda099810cf",
+            "partner": {
+                "alias": "partner_191",
+                "id": "c5992279-9dbf-43fb-a0f3-2433ce581315",
+                "name": "DELIFE",
+                "paymentMethods": [
+                    "PayPal, Rechnungkauf, Kreditkarte (Visa, Mastercard), Finanzierung, Vorkasse mit 2% Rabatt, Barabholung"
+                ]
+            },
+            "partnerProductKey": "30217",
+            "price": {
+                "currency": "EUR",
+                "value": 2999.9
+            },
+            "productId": "c90f2a20b4806e35506270d0cfc070c9",
+            "rating": {
+                "count": 1,
+                "score": 5.0
+            },
+            "shipping": {
+                "currency": "EUR",
+                "originalDeliveryTime": "2-3 Werktage",
+                "price": 0.0
+            },
+            "title": "Big-Sofa Cubico 290x170 cm Cord Beige, Big Sofas",
+            "voucher": {
+                "text": "extra bei Vorkasse",
+                "valuePercentage": 2.0
+            },
+            "vouchers": [
+                {
+                    "text": "extra bei Vorkasse",
+                    "valuePercentage": 2.0
+                }
+            ],
+            "cluster": {
+                "id": "8a94ddcf4aac2fec4f16b66bf9c1736b"
+            },
+            "clusterProductsCount": 1,
+            "maxClusterPriceDiff": {
+                "absolute": 0.0,
+                "relative": 0.0,
+                "currency": "EUR"
+            },
+            "description": "In Kombination mit 2 Rückenkissen bietet dises Sofa einen komfortablen wie optisch ansprechenden Rüc"
+        },
+        {
+            "category": "cc001c326108b044",
+            "clickoutUrl": "https://stylefy.de/Stylefy/Wohnen/Wohnzimmer-Sets/Landhaus-Massiv/Stylefy-Roma-Wohnzimmerset-III-Arusha-Eiche-Canyon/18.1055.1?em_src=cp&em_cmp=feed/de/14552/moebelde/18.1055.1&fdcampaign=feed/de/14552/moebelde/18.1055.1",
+            "clickable": true,
+            "display": {
+                "desktop": true,
+                "mobile": true
+            },
+            "features": {
+                "width": [
+                    "121-160-cm"
+                ],
+                "colour": [
+                    "Braun"
+                ],
+                "deliveryOptions": [
+                    "In-die-Wohnung"
+                ],
+                "material": [
+                    "Holz",
+                    "Holzwerkstoff",
+                    "Kunststoff",
+                    "Nachbildung"
+                ],
+                "materialFurniture": [
+                    "Holz"
+                ],
+                "price": 2089,
+                "sale": true,
+                "services": [
+                    "Altmöbelmitnahme",
+                    "Aufbauservice",
+                    "verlängertes-Rückgaberecht",
+                    "Käuferschutz"
+                ],
+                "shop": "stylefy",
+                "paymentMethod": [
+                    "Kreditkarte",
+                    "PayPal",
+                    "Rechnungskauf"
+                ],
+                "deliveryTime": [
+                    "bis-8-Wochen"
+                ],
+                "voucher": true
+            },
+            "facetMapping": [
+                {
+                    "name": "Breite",
+                    "seoName": "breite",
+                    "featureMapping": "width",
+                    "values": [
+                        {
+                            "name": "121 - 160 cm",
+                            "seoName": "121-160cm-breite",
+                            "featureValue": "121-160-cm",
+                            "colorHex": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Farbe",
+                    "seoName": "farbe",
+                    "featureMapping": "colour",
+                    "values": [
+                        {
+                            "name": "Braun",
+                            "seoName": "braun",
+                            "featureValue": "Braun",
+                            "colorHex": "#C36137"
+                        }
+                    ]
+                },
+                {
+                    "name": "Lieferoptionen",
+                    "seoName": "lieferoptionen",
+                    "featureMapping": "deliveryOptions",
+                    "values": [
+                        {
+                            "name": "In die Wohnung",
+                            "seoName": "in-die-wohnung",
+                            "featureValue": "In-die-Wohnung",
+                            "colorHex": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Material",
+                    "seoName": "material",
+                    "featureMapping": "material",
+                    "values": [
+                        {
+                            "name": "Holz",
+                            "seoName": "holz-material",
+                            "featureValue": "Holz",
+                            "colorHex": ""
+                        },
+                        {
+                            "name": "Holzwerkstoff",
+                            "seoName": "holzwerkstoff-material",
+                            "featureValue": "Holzwerkstoff",
+                            "colorHex": ""
+                        },
+                        {
+                            "name": "Kunststoff",
+                            "seoName": "kunststoff-material",
+                            "featureValue": "Kunststoff",
+                            "colorHex": ""
+                        },
+                        {
+                            "name": "Nachbildung",
+                            "seoName": "nachbildung-material",
+                            "featureValue": "Nachbildung",
+                            "colorHex": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Material",
+                    "seoName": "material-moebel",
+                    "featureMapping": "materialFurniture"
+                },
+                {
+                    "name": "Preis",
+                    "seoName": "preis",
+                    "featureMapping": "price",
+                    "scaleUnit": "€"
+                },
+                {
+                    "name": "Sale",
+                    "seoName": "sale",
+                    "featureMapping": "sale"
+                },
+                {
+                    "name": "Services",
+                    "seoName": "service",
+                    "featureMapping": "services",
+                    "values": [
+                        {
+                            "name": "Altmöbelmitnahme",
+                            "seoName": "altmoebelmitnahme",
+                            "featureValue": "Altmöbelmitnahme",
+                            "colorHex": ""
+                        },
+                        {
+                            "name": "Aufbauservice",
+                            "seoName": "aufbauservice",
+                            "featureValue": "Aufbauservice",
+                            "colorHex": ""
+                        },
+                        {
+                            "name": "verlängertes Rückgaberecht",
+                            "seoName": "verlaengertes-rueckgaberecht",
+                            "featureValue": "verlängertes-Rückgaberecht",
+                            "colorHex": ""
+                        },
+                        {
+                            "name": "Käuferschutz",
+                            "seoName": "kaeuferschutz",
+                            "featureValue": "Käuferschutz",
+                            "colorHex": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Shop",
+                    "seoName": "shop",
+                    "featureMapping": "shop",
+                    "values": [
+                        {
+                            "name": "stylefy",
+                            "seoName": "stylefy",
+                            "featureValue": "stylefy",
+                            "colorHex": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Zahlungsarten",
+                    "seoName": "zahlungsart",
+                    "featureMapping": "paymentMethod",
+                    "values": [
+                        {
+                            "name": "Kreditkarte",
+                            "seoName": "kreditkarte",
+                            "featureValue": "Kreditkarte",
+                            "colorHex": ""
+                        },
+                        {
+                            "name": "PayPal",
+                            "seoName": "paypal",
+                            "featureValue": "PayPal",
+                            "colorHex": ""
+                        },
+                        {
+                            "name": "Rechnungskauf",
+                            "seoName": "rechnung",
+                            "featureValue": "Rechnungskauf",
+                            "colorHex": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Lieferzeit",
+                    "seoName": "lieferzeit",
+                    "featureMapping": "deliveryTime",
+                    "values": [
+                        {
+                            "name": "bis 8 Wochen",
+                            "seoName": "bis-8-wochen",
+                            "featureValue": "bis-8-Wochen",
+                            "colorHex": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Rabattaktionen",
+                    "seoName": "voucher",
+                    "featureMapping": "voucher"
+                }
+            ],
+            "flags": [
+                "promotion",
+                "bestPrice"
+            ],
+            "images": [
+                "15505ba.jpg",
+                "21cf8ea.jpg",
+                "35505ba.jpg",
+                "4e4f3a4.jpg",
+                "5032592.jpg",
+                "6e481bc.jpg",
+                "7257bc9.jpg",
+                "816ddf0.jpg",
+                "97ed948.jpg"
+            ],
+            "objectID": "1ccbd4d0954588f7885c51f56cee2102",
+            "partner": {
+                "alias": "partner_1789",
+                "id": "4ca68ad6-2fbf-43fe-953a-5197a7e5f82e",
+                "name": "stylefy",
+                "paymentMethods": [
+                    "PayPal",
+                    "Rechnungskauf",
+                    "Kreditkarte"
+                ]
+            },
+            "partnerProductKey": "18.1055.1",
+            "price": {
+                "currency": "EUR",
+                "salePercentage": -50.0,
+                "value": 2089.0,
+                "valueFormer": 4179.0
+            },
+            "productId": "17630be147856895eba266ef8475f995",
+            "shipping": {
+                "currency": "EUR",
+                "originalDeliveryTime": "ca. 3-5 Wochen",
+                "price": 39.9
+            },
+            "title": "Stylefy Roma Wohnzimmerset III Arusha Eiche Canyon",
+            "voucher": {
+                "text": "bei Kauf per Überweisung",
+                "valuePercentage": 1.5
+            },
+            "vouchers": [
+                {
+                    "text": "bei Kauf per Überweisung",
+                    "valuePercentage": 1.5
+                }
+            ],
+            "cluster": {
+                "id": "3c06e6ef75dbebdf2cb3f06ff6c839fe"
+            },
+            "clusterProductsCount": 1,
+            "maxClusterPriceDiff": {
+                "absolute": 0.0,
+                "relative": 0.0,
+                "currency": "EUR"
+            },
+            "description": "Produktmaße 1x Kommode: (HxBxT) 114x130x46 cm 1x Standschrank: (HxBxT) 192x50x58 cm 1x Standschrank:"
+        },
+        {
+            "category": "cc001c326108b044",
+            "clickoutUrl": "https://m.exactag.com/cl.aspx?tc=500ac35ddeedd1f62a6863afed9f7bad&subid=0513003278&url=https%3A%2F%2Fwww.roller.de%2Fp%2F0513003278%3Futm_source%3Dmoebel.de%26utm_medium%3Dpsm_pv%26utm_campaign%3Dcampaign_moebel.de",
+            "clickable": true,
+            "display": {
+                "desktop": true,
+                "mobile": true
+            },
+            "features": {
+                "colour": [
+                    "Beige"
+                ],
+                "totalHeight": [
+                    201
+                ],
+                "deliveryOptions": [
+                    "Bis-Bordsteinkante"
+                ],
+                "brand": [
+                    "ROLLER"
+                ],
+                "material": [
+                    "Stoff"
+                ],
+                "materialFurniture": [
+                    "Holz",
+                    "Holzwerkstoff",
+                    "Metall",
+                    "Vollmassiv",
+                    "Nachbildung",
+                    "Textil"
+                ],
+                "price": 1899,
+                "sale": false,
+                "shop": "ROLLER",
+                "paymentMethod": [
+                    "Kreditkarte",
+                    "PayPal",
+                    "Ratenzahlung",
+                    "Rechnungskauf",
+                    "Vorkasse"
+                ],
+                "deliveryTime": [
+                    "bis-8-Wochen"
+                ],
+                "voucher": true,
+                "new": false
+            },
+            "facetMapping": [
+                {
+                    "name": "Farbe",
+                    "seoName": "farbe",
+                    "featureMapping": "colour",
+                    "values": [
+                        {
+                            "name": "Beige",
+                            "seoName": "beige",
+                            "featureValue": "Beige",
+                            "colorHex": "#EFE0B4"
+                        }
+                    ]
+                },
+                {
+                    "name": "Lieferoptionen",
+                    "seoName": "lieferoptionen",
+                    "featureMapping": "deliveryOptions",
+                    "values": [
+                        {
+                            "name": "Bis Bordsteinkante",
+                            "seoName": "bis-bordsteinkante",
+                            "featureValue": "Bis-Bordsteinkante",
+                            "colorHex": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Marke",
+                    "seoName": "marke",
+                    "featureMapping": "brand",
+                    "values": [
+                        {
+                            "name": "ROLLER",
+                            "seoName": "roller",
+                            "featureValue": "ROLLER",
+                            "colorHex": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Material",
+                    "seoName": "material",
+                    "featureMapping": "material",
+                    "values": [
+                        {
+                            "name": "Stoff",
+                            "seoName": "stoff-material",
+                            "featureValue": "Stoff",
+                            "colorHex": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Material",
+                    "seoName": "material-moebel",
+                    "featureMapping": "materialFurniture",
+                    "values": [
+                        {
+                            "name": "Metall",
+                            "seoName": "metall-moebel",
+                            "featureValue": "Metall",
+                            "colorHex": ""
+                        },
+                        {
+                            "name": "Vollmassiv",
+                            "seoName": "vollmassiv-material-moebel",
+                            "featureValue": "Vollmassiv",
+                            "colorHex": ""
+                        },
+                        {
+                            "name": "Nachbildung",
+                            "seoName": "nachbildung-material-moebel",
+                            "featureValue": "Nachbildung",
+                            "colorHex": ""
+                        },
+                        {
+                            "name": "Textil",
+                            "seoName": "textil",
+                            "featureValue": "Textil",
+                            "colorHex": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Preis",
+                    "seoName": "preis",
+                    "featureMapping": "price",
+                    "scaleUnit": "€"
+                },
+                {
+                    "name": "Sale",
+                    "seoName": "sale",
+                    "featureMapping": "sale"
+                },
+                {
+                    "name": "Shop",
+                    "seoName": "shop",
+                    "featureMapping": "shop",
+                    "values": [
+                        {
+                            "name": "ROLLER",
+                            "seoName": "roller",
+                            "featureValue": "ROLLER",
+                            "colorHex": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Zahlungsarten",
+                    "seoName": "zahlungsart",
+                    "featureMapping": "paymentMethod",
+                    "values": [
+                        {
+                            "name": "Kreditkarte",
+                            "seoName": "kreditkarte",
+                            "featureValue": "Kreditkarte",
+                            "colorHex": ""
+                        },
+                        {
+                            "name": "PayPal",
+                            "seoName": "paypal",
+                            "featureValue": "PayPal",
+                            "colorHex": ""
+                        },
+                        {
+                            "name": "Ratenzahlung",
+                            "seoName": "ratenzahlung",
+                            "featureValue": "Ratenzahlung",
+                            "colorHex": ""
+                        },
+                        {
+                            "name": "Rechnungskauf",
+                            "seoName": "rechnung",
+                            "featureValue": "Rechnungskauf",
+                            "colorHex": ""
+                        },
+                        {
+                            "name": "Vorkasse",
+                            "seoName": "vorkasse",
+                            "featureValue": "Vorkasse",
+                            "colorHex": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Lieferzeit",
+                    "seoName": "lieferzeit",
+                    "featureMapping": "deliveryTime",
+                    "values": [
+                        {
+                            "name": "bis 8 Wochen",
+                            "seoName": "bis-8-wochen",
+                            "featureValue": "bis-8-Wochen",
+                            "colorHex": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Rabattaktionen",
+                    "seoName": "voucher",
+                    "featureMapping": "voucher"
+                },
+                {
+                    "name": "Neue Produkte",
+                    "seoName": "neue-produkte",
+                    "featureMapping": "new"
+                }
+            ],
+            "flags": [
+                "promotion",
+                "bestPrice"
+            ],
+            "images": [
+                "1ca8169.jpg",
+                "2ab81bb.jpg",
+                "33cdaf2.jpg",
+                "47add6b.jpg",
+                "59825fd.jpg"
+            ],
+            "locations": [
+                "33818",
+                "44287",
+                "45891",
+                "49124",
+                "33100",
+                "48308",
+                "48599",
+                "47803",
+                "38104",
+                "22339",
+                "28816",
+                "68307",
+                "41065",
+                "2625",
+                "58332",
+                "18273",
+                "34277",
+                "4758",
+                "14772",
+                "19057",
+                "4416",
+                "8412",
+                "99867",
+                "2828",
+                "4178",
+                "3051",
+                "99091",
+                "15517",
+                "23968",
+                "16244",
+                "18069",
+                "56218",
+                "15890",
+                "6217",
+                "78048",
+                "35452",
+                "6179",
+                "47138",
+                "39128",
+                "77656",
+                "7552",
+                "7751",
+                "66359",
+                "40878",
+                "79108",
+                "24223",
+                "9120",
+                "24941",
+                "99734",
+                "72760",
+                "1809",
+                "44149",
+                "65474",
+                "38820",
+                "31135",
+                "14167",
+                "85386",
+                "61191",
+                "12623",
+                "68753",
+                "55232",
+                "71634",
+                "67071",
+                "24537",
+                "9456",
+                "36304",
+                "89231",
+                "51674",
+                "46535",
+                "6667",
+                "74889",
+                "25337",
+                "41540",
+                "28239",
+                "46414",
+                "29223",
+                "50858",
+                "50171",
+                "21079",
+                "30827",
+                "53879",
+                "36179",
+                "89518",
+                "45127",
+                "25469",
+                "67346",
+                "63452",
+                "41836",
+                "95448",
+                "69469",
+                "99425",
+                "66386",
+                "59494",
+                "38644",
+                "98544",
+                "99610",
+                "86154",
+                "78224",
+                "16515",
+                "85051",
+                "39576",
+                "63067",
+                "71332",
+                "21465",
+                "64293",
+                "54516",
+                "27472",
+                "12489",
+                "74564",
+                "6406",
+                "F4"
+            ],
+            "objectID": "48a32e9e65d7d4727524b3fe6098b33f",
+            "partner": {
+                "alias": "partner_2001",
+                "id": "b035a455-fe32-4e03-bd81-a446493ad8ba",
+                "name": "ROLLER",
+                "paymentMethods": [
+                    "PayPal",
+                    "Rechnungskauf",
+                    "Vorkasse",
+                    "Kreditkarte",
+                    "Finanzkauf"
+                ]
+            },
+            "partnerProductKey": "0513003278",
+            "price": {
+                "currency": "EUR",
+                "value": 1899.0
+            },
+            "productId": "f45daa12c3b9004bab17ad9c448bf714",
+            "shipping": {
+                "currency": "EUR",
+                "originalDeliveryTime": "ca. 6 bis 8 Wochen",
+                "price": 159.99
+            },
+            "title": "polsterpower Wohnlandschaft - zimt - Basismodell - Canapé rechts",
+            "voucher": {
+                "text": "ROLLER-APP Rabatt",
+                "valuePercentage": 2.0
+            },
+            "vouchers": [
+                {
+                    "text": "ROLLER-APP Rabatt",
+                    "valuePercentage": 2.0,
+                    "conditions": "* Ausgenommen Lieferung & Montage, Pfand & ROLLER-Geschenkkarten. Gilt nur bei aktiver Nutzung der ROLLER-App durch Scannen des gültigen Strichcodes aus der ROLLER-App am Counter/an der Kasse oder Einloggen über das Kundenkonto auf roller.de & nur bis zum 31.12.2024. ROLLER behält sich die Verlängerung des Angebots vor. Der Preisnachlass wird pro Einkauf nur einmal gewährt."
+                }
+            ],
+            "cluster": {
+                "id": "fb2befe2d3e36c294795f7b3d97d241d"
+            },
+            "clusterProductsCount": 1,
+            "maxClusterPriceDiff": {
+                "absolute": 0.0,
+                "relative": 0.0,
+                "currency": "EUR"
+            },
+            "description": "In einem eindrucksvollen Zimt-Ton präsentiert sich diese komfortable polsterpower Wohnandschaft. Für"
+        },
+        {
+            "category": "cc001c326108b044",
+            "clickoutUrl": "https://www.empinio24.de/products/wohnwand-eiche-bianco-teilmassiv-320-cm-nr-2-santa-fe?channable=05be0869640053462d534554303231&utm_campaign=Shop-Feed&utm_content=&utm_source=moebel.de&utm_medium=cpc&utm_term=&variant=47424865042772&om=19277",
+            "clickable": true,
+            "display": {
+                "desktop": true,
+                "mobile": true
+            },
+            "features": {
+                "totalWidth": [
+                    320
+                ],
+                "width": [
+                    "261-320-cm"
+                ],
+                "colour": [
+                    "Beige"
+                ],
+                "totalHeight": [
+                    208
+                ],
+                "deliveryOptions": [
+                    "In-die-Wohnung"
+                ],
+                "material": [
+                    "Furnier",
+                    "Glas",
+                    "Holz",
+                    "Holzwerkstoff",
+                    "Massivholz",
+                    "Nachbildung"
+                ],
+                "materialFurniture": [
+                    "Holz",
+                    "Massivholz",
+                    "Vollmassiv",
+                    "Teilmassiv"
+                ],
+                "price": 2099,
+                "sale": true,
+                "services": [
+                    "Käuferschutz"
+                ],
+                "shop": "EMPINIO24",
+                "totalDepth": [
+                    48
+                ],
+                "paymentMethod": [
+                    "Kreditkarte",
+                    "PayPal",
+                    "Rechnungskauf",
+                    "Vorkasse",
+                    "Amazon-Payments",
+                    "Barzahlung-bei-Abholung"
+                ],
+                "deliveryTime": [
+                    "mehr-als-8-Wochen"
+                ],
+                "voucher": false,
+                "new": false
+            },
+            "facetMapping": [
+                {
+                    "name": "Breite",
+                    "seoName": "breite",
+                    "featureMapping": "width",
+                    "values": [
+                        {
+                            "name": "261 - 320 cm",
+                            "seoName": "261-320cm",
+                            "featureValue": "261-320-cm",
+                            "colorHex": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Farbe",
+                    "seoName": "farbe",
+                    "featureMapping": "colour",
+                    "values": [
+                        {
+                            "name": "Beige",
+                            "seoName": "beige",
+                            "featureValue": "Beige",
+                            "colorHex": "#EFE0B4"
+                        }
+                    ]
+                },
+                {
+                    "name": "Lieferoptionen",
+                    "seoName": "lieferoptionen",
+                    "featureMapping": "deliveryOptions",
+                    "values": [
+                        {
+                            "name": "In die Wohnung",
+                            "seoName": "in-die-wohnung",
+                            "featureValue": "In-die-Wohnung",
+                            "colorHex": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Material",
+                    "seoName": "material",
+                    "featureMapping": "material",
+                    "values": [
+                        {
+                            "name": "Furnier",
+                            "seoName": "furnier-material",
+                            "featureValue": "Furnier",
+                            "colorHex": ""
+                        },
+                        {
+                            "name": "Glas",
+                            "seoName": "glas-material",
+                            "featureValue": "Glas",
+                            "colorHex": ""
+                        },
+                        {
+                            "name": "Holz",
+                            "seoName": "holz-material",
+                            "featureValue": "Holz",
+                            "colorHex": ""
+                        },
+                        {
+                            "name": "Holzwerkstoff",
+                            "seoName": "holzwerkstoff-material",
+                            "featureValue": "Holzwerkstoff",
+                            "colorHex": ""
+                        },
+                        {
+                            "name": "Massivholz",
+                            "seoName": "massivholz-material",
+                            "featureValue": "Massivholz",
+                            "colorHex": ""
+                        },
+                        {
+                            "name": "Nachbildung",
+                            "seoName": "nachbildung-material",
+                            "featureValue": "Nachbildung",
+                            "colorHex": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Material",
+                    "seoName": "material-moebel",
+                    "featureMapping": "materialFurniture",
+                    "values": [
+                        {
+                            "name": "Massivholz",
+                            "seoName": "massivholz-moebel",
+                            "featureValue": "Massivholz",
+                            "colorHex": ""
+                        },
+                        {
+                            "name": "Vollmassiv",
+                            "seoName": "vollmassiv-material-moebel",
+                            "featureValue": "Vollmassiv",
+                            "colorHex": ""
+                        },
+                        {
+                            "name": "Teilmassiv",
+                            "seoName": "teilmassiv-material-moebel",
+                            "featureValue": "Teilmassiv",
+                            "colorHex": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Preis",
+                    "seoName": "preis",
+                    "featureMapping": "price",
+                    "scaleUnit": "€"
+                },
+                {
+                    "name": "Sale",
+                    "seoName": "sale",
+                    "featureMapping": "sale"
+                },
+                {
+                    "name": "Services",
+                    "seoName": "service",
+                    "featureMapping": "services",
+                    "values": [
+                        {
+                            "name": "Käuferschutz",
+                            "seoName": "kaeuferschutz",
+                            "featureValue": "Käuferschutz",
+                            "colorHex": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Shop",
+                    "seoName": "shop",
+                    "featureMapping": "shop",
+                    "values": [
+                        {
+                            "name": "EMPINIO24",
+                            "seoName": "empinio24",
+                            "featureValue": "EMPINIO24",
+                            "colorHex": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Zahlungsarten",
+                    "seoName": "zahlungsart",
+                    "featureMapping": "paymentMethod",
+                    "values": [
+                        {
+                            "name": "Kreditkarte",
+                            "seoName": "kreditkarte",
+                            "featureValue": "Kreditkarte",
+                            "colorHex": ""
+                        },
+                        {
+                            "name": "PayPal",
+                            "seoName": "paypal",
+                            "featureValue": "PayPal",
+                            "colorHex": ""
+                        },
+                        {
+                            "name": "Rechnungskauf",
+                            "seoName": "rechnung",
+                            "featureValue": "Rechnungskauf",
+                            "colorHex": ""
+                        },
+                        {
+                            "name": "Vorkasse",
+                            "seoName": "vorkasse",
+                            "featureValue": "Vorkasse",
+                            "colorHex": ""
+                        },
+                        {
+                            "name": "Amazon Pay",
+                            "seoName": "amazon-pay",
+                            "featureValue": "Amazon-Payments",
+                            "colorHex": ""
+                        },
+                        {
+                            "name": "Bezahlung bei Abholung",
+                            "seoName": "bezahlung-bei-abholung",
+                            "featureValue": "Barzahlung-bei-Abholung",
+                            "colorHex": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Lieferzeit",
+                    "seoName": "lieferzeit",
+                    "featureMapping": "deliveryTime",
+                    "values": [
+                        {
+                            "name": "mehr als 8 Wochen",
+                            "seoName": "mehr-als-8-wochen",
+                            "featureValue": "mehr-als-8-Wochen",
+                            "colorHex": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Rabattaktionen",
+                    "seoName": "voucher",
+                    "featureMapping": "voucher"
+                },
+                {
+                    "name": "Neue Produkte",
+                    "seoName": "neue-produkte",
+                    "featureMapping": "new"
+                }
+            ],
+            "flags": [
+                "bestPrice"
+            ],
+            "images": [
+                "1a4aa76.jpg"
+            ],
+            "locations": [
+                "32756"
+            ],
+            "objectID": "f215d0d3ab716a8052cecc9c893bcdf4",
+            "partner": {
+                "alias": "partner_144",
+                "id": "9587144d-59c5-4a21-8c55-ad2877b118aa",
+                "name": "EMPINIO24",
+                "paymentMethods": [
+                    "Rechnungskauf",
+                    "Vorkasse",
+                    "Kreditkarte",
+                    "PayPal",
+                    "Amazon Pay",
+                    "Barzahlung bei Abholung"
+                ]
+            },
+            "partnerProductKey": "SF-SET02",
+            "price": {
+                "currency": "EUR",
+                "salePercentage": -9.0,
+                "value": 2099.0,
+                "valueFormer": 2317.0
+            },
+            "productId": "5260cb015cb3d0fddadcbf5f900890d3",
+            "shipping": {
+                "currency": "EUR",
+                "originalDeliveryTime": "41",
+                "price": 0.0
+            },
+            "title": "Wohnwand Eiche bianco teilmassiv 320 cm Nr.2 Santa Fe",
+            "cluster": {
+                "id": "c22478992cc17815f2daeac2b6a05da2"
+            },
+            "clusterProductsCount": 1,
+            "maxClusterPriceDiff": {
+                "absolute": 0.0,
+                "relative": 0.0,
+                "currency": "EUR"
+            },
+            "description": "Wohnwand aus der Serie SANTA FE von EMPINIO24. Es handelt sich um Neuware, Stil Massiv,Modern mit fo"
+        },
+        {
+            "category": "cc001c326108b044",
+            "clickoutUrl": "https://click.cptrack.de/?rd=true&k=CLmxHNjj1TSv6ySdn6YcoU0CQIrF-dvo3teafKFG9LH1xOOekY00T5xwSxo6u6vHNM2epliMI2XIhIUqZe29V-3H5_DWXMlli-2XtIr2lLnJ4M4s-LzHQybcbdsOxT4M&rdlink=https%3A%2F%2Fwww.kabs.de%2Fp%2Fwohnlandschaft-borgiallo-ii-inklusive-schlaffunktion-und-stauraum-24e7a33115594c3cbf18d4a3b9face7a%3FcolorId%3D1A1BA6_5%26utm_medium%3Dfeed%26utm_source%3Dmoebelde&pid=moebelde",
+            "clickable": true,
+            "display": {
+                "desktop": true,
+                "mobile": true
+            },
+            "features": {
+                "totalWidth": [
+                    340
+                ],
+                "width": [
+                    "321-380-cm"
+                ],
+                "colour": [
+                    "Grau",
+                    "Schwarz"
+                ],
+                "totalHeight": [
+                    81
+                ],
+                "deliveryOptions": [
+                    "Bis-Bordsteinkante"
+                ],
+                "material": [
+                    "Kunstfaser",
+                    "Microfaser",
+                    "Textil"
+                ],
+                "materialFurniture": [
+                    "Textil"
+                ],
+                "price": 2487,
+                "sale": false,
+                "services": [
+                    "persönliche-Beratung"
+                ],
+                "shop": "Kabs PolsterWelt",
+                "totalDepth": [
+                    188
+                ],
+                "paymentMethod": [
+                    "Kreditkarte",
+                    "PayPal",
+                    "Vorkasse",
+                    "Nachnahme"
+                ],
+                "deliveryTime": [
+                    "bis-2-Wochen",
+                    "bis-4-Wochen",
+                    "bis-8-Wochen"
+                ],
+                "voucher": false,
+                "new": false
+            },
+            "facetMapping": [
+                {
+                    "name": "Breite",
+                    "seoName": "breite",
+                    "featureMapping": "width",
+                    "values": [
+                        {
+                            "name": "321 - 380 cm",
+                            "seoName": "321-380cm",
+                            "featureValue": "321-380-cm",
+                            "colorHex": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Farbe",
+                    "seoName": "farbe",
+                    "featureMapping": "colour",
+                    "values": [
+                        {
+                            "name": "Grau",
+                            "seoName": "grau",
+                            "featureValue": "Grau",
+                            "colorHex": "#E9E9E9"
+                        },
+                        {
+                            "name": "Schwarz",
+                            "seoName": "schwarz",
+                            "featureValue": "Schwarz",
+                            "colorHex": "#000000"
+                        }
+                    ]
+                },
+                {
+                    "name": "Lieferoptionen",
+                    "seoName": "lieferoptionen",
+                    "featureMapping": "deliveryOptions",
+                    "values": [
+                        {
+                            "name": "Bis Bordsteinkante",
+                            "seoName": "bis-bordsteinkante",
+                            "featureValue": "Bis-Bordsteinkante",
+                            "colorHex": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Material",
+                    "seoName": "material",
+                    "featureMapping": "material",
+                    "values": [
+                        {
+                            "name": "Kunstfaser",
+                            "seoName": "kunstfaser-material",
+                            "featureValue": "Kunstfaser",
+                            "colorHex": ""
+                        },
+                        {
+                            "name": "Microfaser",
+                            "seoName": "microfaser-material",
+                            "featureValue": "Microfaser",
+                            "colorHex": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Material",
+                    "seoName": "material-moebel",
+                    "featureMapping": "materialFurniture",
+                    "values": [
+                        {
+                            "name": "Textil",
+                            "seoName": "textil",
+                            "featureValue": "Textil",
+                            "colorHex": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Preis",
+                    "seoName": "preis",
+                    "featureMapping": "price",
+                    "scaleUnit": "€"
+                },
+                {
+                    "name": "Sale",
+                    "seoName": "sale",
+                    "featureMapping": "sale"
+                },
+                {
+                    "name": "Services",
+                    "seoName": "service",
+                    "featureMapping": "services",
+                    "values": [
+                        {
+                            "name": "persönliche Beratung",
+                            "seoName": "beratung",
+                            "featureValue": "persönliche-Beratung",
+                            "colorHex": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Shop",
+                    "seoName": "shop",
+                    "featureMapping": "shop",
+                    "values": [
+                        {
+                            "name": "Kabs",
+                            "seoName": "kabs-polsterwelt",
+                            "featureValue": "Kabs PolsterWelt",
+                            "colorHex": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Zahlungsarten",
+                    "seoName": "zahlungsart",
+                    "featureMapping": "paymentMethod",
+                    "values": [
+                        {
+                            "name": "Kreditkarte",
+                            "seoName": "kreditkarte",
+                            "featureValue": "Kreditkarte",
+                            "colorHex": ""
+                        },
+                        {
+                            "name": "PayPal",
+                            "seoName": "paypal",
+                            "featureValue": "PayPal",
+                            "colorHex": ""
+                        },
+                        {
+                            "name": "Vorkasse",
+                            "seoName": "vorkasse",
+                            "featureValue": "Vorkasse",
+                            "colorHex": ""
+                        },
+                        {
+                            "name": "Nachnahme",
+                            "seoName": "nachnahme",
+                            "featureValue": "Nachnahme",
+                            "colorHex": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Lieferzeit",
+                    "seoName": "lieferzeit",
+                    "featureMapping": "deliveryTime",
+                    "values": [
+                        {
+                            "name": "bis 2 Wochen",
+                            "seoName": "bis-2-wochen",
+                            "featureValue": "bis-2-Wochen",
+                            "colorHex": ""
+                        },
+                        {
+                            "name": "bis 4 Wochen",
+                            "seoName": "bis-4-wochen",
+                            "featureValue": "bis-4-Wochen",
+                            "colorHex": ""
+                        },
+                        {
+                            "name": "bis 8 Wochen",
+                            "seoName": "bis-8-wochen",
+                            "featureValue": "bis-8-Wochen",
+                            "colorHex": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Rabattaktionen",
+                    "seoName": "voucher",
+                    "featureMapping": "voucher"
+                },
+                {
+                    "name": "Neue Produkte",
+                    "seoName": "neue-produkte",
+                    "featureMapping": "new"
+                }
+            ],
+            "flags": [
+                "bestPrice"
+            ],
+            "images": [
+                "1a782bc.jpg",
+                "21386d3.jpg",
+                "39e62ed.jpg",
+                "41b5319.jpg"
+            ],
+            "locations": [
+                "28279",
+                "49661",
+                "45276",
+                "25469",
+                "21079",
+                "22041",
+                "21079",
+                "04209",
+                "23554",
+                "49078",
+                "24223",
+                "19061"
+            ],
+            "objectID": "88a3b3d794d0f39e5248da9a4d7dd359",
+            "partner": {
+                "alias": "partner_179",
+                "id": "33bbcedd-b881-42b6-b750-8a1416917363",
+                "name": "Kabs PolsterWelt",
+                "paymentMethods": [
+                    "Kreditkarte",
+                    "PayPal",
+                    "Vorkasse",
+                    "Nachnahme"
+                ]
+            },
+            "partnerProductKey": "e8446a18dc5297e852b077fad07f4cf1f13b964f",
+            "price": {
+                "currency": "EUR",
+                "value": 2487.0
+            },
+            "productId": "0f90a4f3490de782e6d6668b62b59f02",
+            "shipping": {
+                "currency": "EUR",
+                "info": "Bei Kabs.de kostenlos",
+                "originalDeliveryTime": "2 Wochen",
+                "price": 0.0
+            },
+            "title": "Wohnlandschaft Borgiallo II wahlweise mit Schlaffunktion, Bettkasten und rückenecht bezogen",
+            "cluster": {
+                "id": "6767d565fa389efcb4c314399b37dea3"
+            },
+            "clusterProductsCount": 1,
+            "maxClusterPriceDiff": {
+                "absolute": 0.0,
+                "relative": 0.0,
+                "currency": "EUR"
+            },
+            "description": "Die Wohnlandschaft Borgiallo II ist inklusive Schlaffunktion und Stauraum verfügbar"
+        },
+        {
+            "category": "cc001c326108b044",
+            "clickoutUrl": "https://www.moebel-martin.de/anbauwand-witlake-cortona/1009182-31.html?utm_source=moebel.de&utm_medium=affiliate",
+            "clickable": true,
+            "display": {
+                "desktop": true,
+                "mobile": true
+            },
+            "features": {
+                "colour": [
+                    "Braun"
+                ],
+                "material": [
+                    "Holz"
+                ],
+                "materialFurniture": [
+                    "Holz"
+                ],
+                "price": 4751,
+                "sale": false,
+                "shop": "Möbel Martin",
+                "paymentMethod": [
+                    "Kreditkarte",
+                    "PayPal",
+                    "Rechnungskauf",
+                    "Vorkasse"
+                ],
+                "deliveryTime": [
+                    "bis-4-Wochen",
+                    "bis-8-Wochen"
+                ],
+                "voucher": false,
+                "new": true
+            },
+            "facetMapping": [
+                {
+                    "name": "Farbe",
+                    "seoName": "farbe",
+                    "featureMapping": "colour",
+                    "values": [
+                        {
+                            "name": "Braun",
+                            "seoName": "braun",
+                            "featureValue": "Braun",
+                            "colorHex": "#C36137"
+                        }
+                    ]
+                },
+                {
+                    "name": "Material",
+                    "seoName": "material",
+                    "featureMapping": "material",
+                    "values": [
+                        {
+                            "name": "Holz",
+                            "seoName": "holz-material",
+                            "featureValue": "Holz",
+                            "colorHex": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Material",
+                    "seoName": "material-moebel",
+                    "featureMapping": "materialFurniture"
+                },
+                {
+                    "name": "Preis",
+                    "seoName": "preis",
+                    "featureMapping": "price",
+                    "scaleUnit": "€"
+                },
+                {
+                    "name": "Sale",
+                    "seoName": "sale",
+                    "featureMapping": "sale"
+                },
+                {
+                    "name": "Shop",
+                    "seoName": "shop",
+                    "featureMapping": "shop",
+                    "values": [
+                        {
+                            "name": "Möbel Martin",
+                            "seoName": "moebel-martin",
+                            "featureValue": "Möbel Martin",
+                            "colorHex": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Zahlungsarten",
+                    "seoName": "zahlungsart",
+                    "featureMapping": "paymentMethod",
+                    "values": [
+                        {
+                            "name": "Kreditkarte",
+                            "seoName": "kreditkarte",
+                            "featureValue": "Kreditkarte",
+                            "colorHex": ""
+                        },
+                        {
+                            "name": "PayPal",
+                            "seoName": "paypal",
+                            "featureValue": "PayPal",
+                            "colorHex": ""
+                        },
+                        {
+                            "name": "Rechnungskauf",
+                            "seoName": "rechnung",
+                            "featureValue": "Rechnungskauf",
+                            "colorHex": ""
+                        },
+                        {
+                            "name": "Vorkasse",
+                            "seoName": "vorkasse",
+                            "featureValue": "Vorkasse",
+                            "colorHex": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Lieferzeit",
+                    "seoName": "lieferzeit",
+                    "featureMapping": "deliveryTime",
+                    "values": [
+                        {
+                            "name": "bis 4 Wochen",
+                            "seoName": "bis-4-wochen",
+                            "featureValue": "bis-4-Wochen",
+                            "colorHex": ""
+                        },
+                        {
+                            "name": "bis 8 Wochen",
+                            "seoName": "bis-8-wochen",
+                            "featureValue": "bis-8-Wochen",
+                            "colorHex": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Rabattaktionen",
+                    "seoName": "voucher",
+                    "featureMapping": "voucher"
+                },
+                {
+                    "name": "Neue Produkte",
+                    "seoName": "neue-produkte",
+                    "featureMapping": "new"
+                }
+            ],
+            "flags": [
+                "bestPrice"
+            ],
+            "images": [
+                "1fcf637.jpg"
+            ],
+            "objectID": "e28c8ac388b3a994a4be32b9b0cda301",
+            "partner": {
+                "alias": "partner_1801",
+                "id": "dc0c459c-7dff-4d86-aa76-d18a825b59da",
+                "name": "Möbel Martin",
+                "paymentMethods": [
+                    "PayPal",
+                    "Vorkasse",
+                    "Rechnungskauf",
+                    "Kreditkarte "
+                ]
+            },
+            "partnerProductKey": "1009182-31",
+            "price": {
+                "currency": "EUR",
+                "value": 4751.0
+            },
+            "productId": "486285237e5f90f9105ebaf61e9bde21",
+            "shipping": {
+                "currency": "EUR",
+                "originalDeliveryTime": "15-20 Werktage",
+                "price": 39.9
+            },
+            "title": "Anbauwand Witlake Cortona",
+            "voucher": {
+                "valuePercentage": 0.0
+            },
+            "vouchers": [
+                {
+                    "valuePercentage": 0.0
+                }
+            ],
+            "cluster": {
+                "id": "a1c30ffa204ee7ae652f01d859c22b34"
+            },
+            "clusterProductsCount": 1,
+            "maxClusterPriceDiff": {
+                "absolute": 0.0,
+                "relative": 0.0,
+                "currency": "EUR"
+            },
+            "description": "Front und Korpus Wildeiche massiv, soft gebürstet, ca. 265x204x46 cm"
+        },
+        {
+            "category": "cc001c326108b044",
+            "clickoutUrl": "https://www.delife.eu/big-sofa-justo-310x110-cm-chenille-beige/a-30116?_$ja=554317879&ReferrerID=82&utm_source=moebelde&utm_medium=pdm&utm_campaign=moebeldeDE&utm_content=30116&em_src=cp&em_cmp=feed/de/69133/moebel.de/30116&fdcampaign=feed/de/69133/moebel.de/30116",
+            "clickable": true,
+            "display": {
+                "desktop": true,
+                "mobile": true
+            },
+            "features": {
+                "totalWidth": [
+                    309
+                ],
+                "width": [
+                    "261-320-cm"
+                ],
+                "colour": [
+                    "Beige"
+                ],
+                "totalHeight": [
+                    63
+                ],
+                "deliveryOptions": [
+                    "Bis-Bordsteinkante"
+                ],
+                "brand": [
+                    "Delife"
+                ],
+                "material": [
+                    "Chenille",
+                    "Textil"
+                ],
+                "materialFurniture": [
+                    "Holz",
+                    "Kunststoff",
+                    "Vollmassiv",
+                    "Textil"
+                ],
+                "price": 2400,
+                "sale": true,
+                "services": [
+                    "Musterversand",
+                    "kostenloser-Rückversand",
+                    "Käuferschutz"
+                ],
+                "shop": "DELIFE",
+                "totalDepth": [
+                    112
+                ],
+                "paymentMethod": [
+                    "Kreditkarte",
+                    "PayPal",
+                    "Ratenzahlung",
+                    "Rechnungskauf",
+                    "Vorkasse"
+                ],
+                "deliveryTime": [
+                    "sofort-lieferbar",
+                    "bis-2-Wochen",
+                    "bis-4-Wochen",
+                    "bis-8-Wochen",
+                    "Lieferung-vor-Weihnachten"
+                ],
+                "voucher": true,
+                "new": false
+            },
+            "facetMapping": [
+                {
+                    "name": "Breite",
+                    "seoName": "breite",
+                    "featureMapping": "width",
+                    "values": [
+                        {
+                            "name": "261 - 320 cm",
+                            "seoName": "261-320cm",
+                            "featureValue": "261-320-cm",
+                            "colorHex": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Farbe",
+                    "seoName": "farbe",
+                    "featureMapping": "colour",
+                    "values": [
+                        {
+                            "name": "Beige",
+                            "seoName": "beige",
+                            "featureValue": "Beige",
+                            "colorHex": "#EFE0B4"
+                        }
+                    ]
+                },
+                {
+                    "name": "Lieferoptionen",
+                    "seoName": "lieferoptionen",
+                    "featureMapping": "deliveryOptions",
+                    "values": [
+                        {
+                            "name": "Bis Bordsteinkante",
+                            "seoName": "bis-bordsteinkante",
+                            "featureValue": "Bis-Bordsteinkante",
+                            "colorHex": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Marke",
+                    "seoName": "marke",
+                    "featureMapping": "brand",
+                    "values": [
+                        {
+                            "name": "Delife",
+                            "seoName": "delife",
+                            "featureValue": "Delife",
+                            "colorHex": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Material",
+                    "seoName": "material",
+                    "featureMapping": "material",
+                    "values": [
+                        {
+                            "name": "Chenille",
+                            "seoName": "chenille",
+                            "featureValue": "Chenille",
+                            "colorHex": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Material",
+                    "seoName": "material-moebel",
+                    "featureMapping": "materialFurniture",
+                    "values": [
+                        {
+                            "name": "Kunststoff",
+                            "seoName": "kunststoff-moebel",
+                            "featureValue": "Kunststoff",
+                            "colorHex": ""
+                        },
+                        {
+                            "name": "Vollmassiv",
+                            "seoName": "vollmassiv-material-moebel",
+                            "featureValue": "Vollmassiv",
+                            "colorHex": ""
+                        },
+                        {
+                            "name": "Textil",
+                            "seoName": "textil",
+                            "featureValue": "Textil",
+                            "colorHex": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Preis",
+                    "seoName": "preis",
+                    "featureMapping": "price",
+                    "scaleUnit": "€"
+                },
+                {
+                    "name": "Sale",
+                    "seoName": "sale",
+                    "featureMapping": "sale"
+                },
+                {
+                    "name": "Services",
+                    "seoName": "service",
+                    "featureMapping": "services",
+                    "values": [
+                        {
+                            "name": "Musterversand",
+                            "seoName": "stoffmusterversand",
+                            "featureValue": "Musterversand",
+                            "colorHex": ""
+                        },
+                        {
+                            "name": "kostenloser Rückversand",
+                            "seoName": "kostenloser-rueckversand",
+                            "featureValue": "kostenloser-Rückversand",
+                            "colorHex": ""
+                        },
+                        {
+                            "name": "Käuferschutz",
+                            "seoName": "kaeuferschutz",
+                            "featureValue": "Käuferschutz",
+                            "colorHex": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Shop",
+                    "seoName": "shop",
+                    "featureMapping": "shop",
+                    "values": [
+                        {
+                            "name": "DELIFE",
+                            "seoName": "delife",
+                            "featureValue": "DELIFE",
+                            "colorHex": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Zahlungsarten",
+                    "seoName": "zahlungsart",
+                    "featureMapping": "paymentMethod",
+                    "values": [
+                        {
+                            "name": "Kreditkarte",
+                            "seoName": "kreditkarte",
+                            "featureValue": "Kreditkarte",
+                            "colorHex": ""
+                        },
+                        {
+                            "name": "PayPal",
+                            "seoName": "paypal",
+                            "featureValue": "PayPal",
+                            "colorHex": ""
+                        },
+                        {
+                            "name": "Ratenzahlung",
+                            "seoName": "ratenzahlung",
+                            "featureValue": "Ratenzahlung",
+                            "colorHex": ""
+                        },
+                        {
+                            "name": "Rechnungskauf",
+                            "seoName": "rechnung",
+                            "featureValue": "Rechnungskauf",
+                            "colorHex": ""
+                        },
+                        {
+                            "name": "Vorkasse",
+                            "seoName": "vorkasse",
+                            "featureValue": "Vorkasse",
+                            "colorHex": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Lieferzeit",
+                    "seoName": "lieferzeit",
+                    "featureMapping": "deliveryTime",
+                    "values": [
+                        {
+                            "name": "sofort lieferbar",
+                            "seoName": "bis-1-woche",
+                            "featureValue": "sofort-lieferbar",
+                            "colorHex": ""
+                        },
+                        {
+                            "name": "bis 2 Wochen",
+                            "seoName": "bis-2-wochen",
+                            "featureValue": "bis-2-Wochen",
+                            "colorHex": ""
+                        },
+                        {
+                            "name": "bis 4 Wochen",
+                            "seoName": "bis-4-wochen",
+                            "featureValue": "bis-4-Wochen",
+                            "colorHex": ""
+                        },
+                        {
+                            "name": "bis 8 Wochen",
+                            "seoName": "bis-8-wochen",
+                            "featureValue": "bis-8-Wochen",
+                            "colorHex": ""
+                        },
+                        {
+                            "name": "Lieferung vor Weihnachten",
+                            "seoName": "lieferung-vor-weihnachten",
+                            "featureValue": "Lieferung-vor-Weihnachten",
+                            "colorHex": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Rabattaktionen",
+                    "seoName": "voucher",
+                    "featureMapping": "voucher"
+                },
+                {
+                    "name": "Neue Produkte",
+                    "seoName": "neue-produkte",
+                    "featureMapping": "new"
+                }
+            ],
+            "flags": [
+                "promotion",
+                "bestPrice"
+            ],
+            "images": [
+                "12280ad.jpg",
+                "2ec5322.jpg",
+                "3e90b71.jpg",
+                "4588a89.jpg",
+                "5b0f09e.jpg",
+                "69e12f7.jpg"
+            ],
+            "locations": [
+                "96237"
+            ],
+            "objectID": "dff8f5deddffa23feca6b64a89f84739",
+            "partner": {
+                "alias": "partner_191",
+                "id": "c5992279-9dbf-43fb-a0f3-2433ce581315",
+                "name": "DELIFE",
+                "paymentMethods": [
+                    "PayPal, Rechnungkauf, Kreditkarte (Visa, Mastercard), Finanzierung, Vorkasse mit 2% Rabatt, Barabholung"
+                ]
+            },
+            "partnerProductKey": "30116",
+            "price": {
+                "currency": "EUR",
+                "salePercentage": -20.0,
+                "value": 2399.9,
+                "valueFormer": 2999.9
+            },
+            "productId": "afbc68f37efff223c09a165918ceb0ec",
+            "shipping": {
+                "currency": "EUR",
+                "originalDeliveryTime": "2-3 Werktage",
+                "price": 0.0
+            },
+            "title": "Big-Sofa Justo 310x110 cm Chenille Beige, Big Sofas",
+            "voucher": {
+                "text": "extra bei Vorkasse",
+                "valuePercentage": 2.0
+            },
+            "vouchers": [
+                {
+                    "text": "extra bei Vorkasse",
+                    "valuePercentage": 2.0
+                }
+            ],
+            "cluster": {
+                "id": "ded26273bb83c340abedf0b5f9c81cc8"
+            },
+            "clusterProductsCount": 1,
+            "maxClusterPriceDiff": {
+                "absolute": 0.0,
+                "relative": 0.0,
+                "currency": "EUR"
+            },
+            "description": "Mit ihren schönen weichen Formen und einer ansprechenden Färbung in Beige wirkt die XXL-Couch Justo "
+        }
+    ]
+}
