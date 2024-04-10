@@ -38,6 +38,7 @@ dependencies:
   bloc: ^8.1.4
   get_it: ^7.6.8
   equatable: ^2.0.5
+  rename: ^3.0.2
 
 dev_dependencies:
   flutter_test:

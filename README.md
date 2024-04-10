@@ -1,9 +1,9 @@
 
-# Dashboard Delight
+# TeamFit Challenge
 
 ## Introduction
 
-Welcome to Dashboard Delight, a project designed for developers to showcase their problem-solving and coding skills in a simulated work environment. This project aims to emulate an hour of work life in our company, focusing not on task completion but on how developers manage their time, approach coding challenges, and devise solutions.
+Welcome to TeamFitChallenge, a project designed for developers to showcase their problem-solving and coding skills in a simulated work environment. This project aims to emulate an hour of work life in our company, focusing not on task completion but on how developers manage their time, approach coding challenges, and devise solutions.
 
 ## Project Description
 
