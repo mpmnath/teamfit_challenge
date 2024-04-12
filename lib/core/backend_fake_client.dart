@@ -1,17 +1,20 @@
+import 'dart:convert';
 import 'package:dashboard_delight/core/fake_result.dart';
+import 'package:dashboard_delight/core/fake_result_error.dart';
 import 'package:flutter/services.dart' show rootBundle;
 import 'dart:math';
 
+// A fake client to fetch data from a fake backend
 class BackendFakeClient {
   Future<FakeResult> fetchData() async {
     bool result = _randomBoolWithRate(0.1);
     await Future.delayed(const Duration(seconds: 1));
     if (result) {
       String jsonString = await rootBundle.loadString('assets/result.json');
-      return FakeResult(body: jsonString, statusCode: 200);
+      final jsonResult = json.decode(jsonString);
+      return FakeResult.fromJson(jsonResult);
     } else {
-      return FakeResult(
-          body: '', statusCode: 500, errorMessage: 'Internal Server Error');
+      throw FakeResultError(message: "Error Occured!");
     }
   }
 
