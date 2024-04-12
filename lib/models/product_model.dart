@@ -100,7 +100,6 @@ class PriceModel {
 }
 
 // partner model
-
 class PartnerModel {
   final String alias;
   final String id;
