@@ -111,9 +111,6 @@ class ImageCarousel extends StatelessWidget {
           final imageName = image.split('.').first;
           final suffix = image.split('.').last;
 
-          print(imageName);
-          print(suffix);
-
           return Image.network(
             ImageParser.constructImageUrl(
               partnerId,
